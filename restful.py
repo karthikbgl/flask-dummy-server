@@ -89,6 +89,3 @@ api.add_resource(Stories, '/api/v1/stories/<id>/', endpoint="story_")
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-~                            
